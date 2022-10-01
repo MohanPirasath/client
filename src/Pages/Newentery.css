@@ -1,0 +1,22 @@
+
+
+.productForm{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+   
+   
+}
+
+.imgdiv{
+  /* background-image: url(https://media.istockphoto.com/photos/group-of-business-people-work-together-in-office-picture-id1343885102?b=1&k=20&m=1343885102&s=170667a&w=0&h=pxvv3yhRxB6B1uBPx_DD1LBRvuk8z0H9eUAUQq39vBc=); */
+  /* height: 92vh;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  overflow-x: hidden; */
+ 
+ 
+}
